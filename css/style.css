@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+#center{
+ height: 100vh;
+ text-align: center;
+  align-content: center;
+}
+h1{
+    font-family: "Sigmar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
